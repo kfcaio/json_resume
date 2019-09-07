@@ -1,0 +1,82 @@
+{
+    "basics": {
+        "name": "Caio Ignatz Martins",
+        "label": "Dare to develop solutions through technology",
+        "summary": "Striving for excellence as software developer using mostly open source resources to serve organization with the best of my technical skills and abilities.",
+        "location": {
+            "postalCode": "00010",
+            "countryCode": "BR"
+        },
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "caio-ignatz-martins",
+                "url": "https:\/\/www.linkedin.com\/in\/caio-ignatz-martins"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Digesto Pesquisa e Banco de Dados",
+            "position": "Python developer Intern",
+            "startDate": "2019-04-01"
+        },
+        {
+            "company": "Sincroniza Educacao",
+            "summary": "Opportunity to work with and mentored by a data solution engineer Lead\/Architect. Together, we transform and turn data into actionable insights for educational stakeholders in Brazil.\n\n- Creation and optimization of new or existing ETL processes with Apache Airflow\n- Promote the role and capabilities of IT regarding data & analytics\n- Work with Data Warehousing and BI applications\n- Engage with Sincroniza Team to build and deliver analytics reports\n- Management of automated email solutions, such as Amazon SES and Mailchimp API\n- Creation of custom software components on demand\n- Creation of an automated workflow for backing up Google Drive to a cold cloud storage service using Rclone\n\nOur Stack: Python3.x, App Script, Jinja2, RClone, Amazon Web Services(S3 and SES), Google Cloud Platform, Google G Suite and Linux.",
+            "position": "Data Analyst Intern",
+            "startDate": "2018-04-01",
+            "endDate": "2018-10-01"
+        },
+        {
+            "company": "TEVEC Inteligencia Artificial",
+            "summary": "Help solve company challenges using Machine Learning and Software Engineering approaches to support tasks like classification and forecasting. \n\n- Creation of custom software components on demand\n- Involved in unit and Integration testing process\n- Experience with RDBMS and NO-SQL Databases, like Cassandra, MongoDB, MySQL and its drivers for Python\n- Contribute to internal Wiki\n- Performed research regarding Python Programming and its uses and efficiency",
+            "position": "Data Scientist Intern",
+            "startDate": "2017-09-01",
+            "endDate": "2018-03-01"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Sao Paulo University",
+            "area": "Information Systems",
+            "studyType": "Bachelor's degree",
+            "gpa": "School of Arts, Sciences and Humanities (EACH-USP)",
+            "startDate": "2016-01-01",
+            "endDate": "2020-01-01"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python"
+        },
+        {
+            "name": "Software Development"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Javascript"
+        },
+        {
+            "name": "Programming"
+        },   
+        {
+            "name": "Agile Methodology"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Full professional"
+        },
+        {
+            "language": "German",
+            "fluency": "Limited working"
+        }
+    ]
+}
